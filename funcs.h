@@ -1,3 +1,11 @@
+/*
+Author: Ryan Jiang
+Course: CSCI-135
+Instructor: Tong Yi and Mike Zamansky
+Assignment: Lab 12
+This is the header file for funcs.cpp.
+*/
+
 #pragma once
 #include <vector>
 

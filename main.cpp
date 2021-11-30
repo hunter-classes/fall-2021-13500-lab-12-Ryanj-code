@@ -1,3 +1,11 @@
+/*
+Author: Ryan Jiang
+Course: CSCI-135
+Instructor: Tong Yi and Mike Zamansky
+Assignment: Lab 12
+This file contains some tests for the functions in funcs.cpp.
+*/
+
 #include <iostream>
 #include <vector>
 #include "funcs.h"

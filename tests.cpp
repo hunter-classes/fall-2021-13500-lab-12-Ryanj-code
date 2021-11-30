@@ -1,3 +1,11 @@
+/*
+Author: Ryan Jiang
+Course: CSCI-135
+Instructor: Tong Yi and Mike Zamansky
+Assignment: Lab 12
+This file contains the tests for the functions in funcs.cpp.
+*/
+
 #define DOCTEST_CONFIG_IMPLEMENT_WITH_MAIN
 #define CHECK DOCTEST_CHECK
 #include "doctest.h"
